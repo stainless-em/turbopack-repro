@@ -6,7 +6,6 @@
     "build:static": "next build && next out"
   },
   "dependencies": {
-    "@mux/mux-node": "10.1.0",
     "next": "^15.2.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"

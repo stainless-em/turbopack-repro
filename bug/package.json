@@ -1,0 +1,5 @@
+{
+  "sideEffects": [
+    "./_shims/index.mjs"
+  ]
+}

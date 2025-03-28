@@ -1,7 +1,7 @@
-import { Mux } from "@mux/mux-node";
+import { bug } from "../bug/core.mjs";
 
 export default () => {
-  new Mux({ baseURL: "https://httpbin.org/anything", tokenId: '', tokenSecret: '' }).video.uploads.create();
+  bug()
   return (
     <main>
       <h1>Welcome to Next.js</h1>
